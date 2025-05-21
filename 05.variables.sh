@@ -2,6 +2,6 @@
 
 echo "enter your pin Number:"
 
-read PIN #Here PIN is variable
+read -s PIN #Here PIN is variable
 
 echo "Your number is: $PIN"
