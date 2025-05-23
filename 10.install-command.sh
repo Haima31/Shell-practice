@@ -24,5 +24,7 @@ then
     exit 1
   fi
 else
+
 echo "mysql is already installed,,nothing to do:"
+  
   fi 
